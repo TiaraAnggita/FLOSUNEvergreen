@@ -69,8 +69,8 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="shop.php">
-                                        <span class="menu-text">Shop</span>
+                                    <a href="product.php">
+                                        <span class="menu-text">Product</span>
                                         <i class="fa fa-angle-down"></i>
                                     </a>
                                     <div class="mega-menu dropdown-hover">
@@ -1309,7 +1309,7 @@
                             <h2 class="widget-title">Quicklink</h2>
                             <ul class="widget-list">
                                 <li><a href="about-us.html">About</a></li>
-                                <li><a href="blog.html">Blog</a></li>
+                                
                                 <li><a href="shop.html">Shop</a></li>
                                 <li><a href="cart.html">Cart</a></li>
                                 <li><a href="contact-us.html">Contact</a></li>

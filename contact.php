@@ -336,7 +336,7 @@
                     <div class="breadcrumb-content position-relative section-content">
                         <h3 class="title-3">Contact Us</h3>
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Contact Us</li>
                         </ul>
                     </div>
@@ -429,7 +429,7 @@
                     <div class="col-12 col-sm-12 col-md-12 col-lg-3 col-custom">
                         <div class="single-footer-widget m-0">
                             <div class="footer-logo">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img src="assets/images/logo/logo-footer.png" alt="Logo Image">
                                 </a>
                             </div>

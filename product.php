@@ -70,8 +70,8 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a class="active" href="shop.php">
-                                        <span class="menu-text">Shop</span>
+                                    <a class="active" href="product.php">
+                                        <span class="menu-text">Product</span>
                                        
                                     </a>
                                     <div class="mega-menu dropdown-hover">
